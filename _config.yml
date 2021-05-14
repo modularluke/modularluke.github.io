@@ -15,7 +15,7 @@ author: Luke Eyles
 
 navbar-links:
   Home: "https://modularluke.github.io/"
-  Resume: "resume"
+  My Resume: "resume"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
