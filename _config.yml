@@ -16,6 +16,9 @@ author: Luke Eyles
 navbar-links:
   Home: "https://modularluke.github.io/"
   My Resume: "resume"
+  Projects: "projects"
+    - Tic-tac-toe robot: "https://www.markdowntutorial.com/"
+    - Wall building robots: "https://beautifuljekyll.com"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -106,14 +109,14 @@ feed_show_tags: true
 # footer-link-col: "#404040"
 
 navbar-col: "#002b36"
-navbar-text-col: "#93a1a1"
+navbar-text-col: "#aebfbf"
 navbar-border-col: "#DDDDDD"
 page-col: "#073642"
-text-col: "#93a1a1"
+text-col: "#aebfbf"
 link-col: "#eee8d5"
 hover-col: "#fdf6e3"
 footer-col: "#002b36"
-footer-text-col: "#93a1a1"
+footer-text-col: "#aebfbf"
 footer-link-col: "#eee8d5"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
