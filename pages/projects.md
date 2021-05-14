@@ -14,7 +14,7 @@ Description here\
 Pic here
 
 ## [Driving turtlebot to marker](projects/driving-turtlebot-to-marker/)
-## [Simulated aircraft interceptor] (projects/aircraft-interceptor/)
+## [Simulated aircraft interceptor](projects/aircraft-interceptor/)
 ## [Arduino security system](projects/arduino-security-system/)
 ## [Hand pump](projects/hand-pump/)
 ## [Blender renders](projects/blender/)
