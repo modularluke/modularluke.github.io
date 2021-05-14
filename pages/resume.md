@@ -1,4 +1,5 @@
 ---
+permalink: /resume/
 layout: page
 title: Resume
 subtitle: 4th year Mechanical and Mechatronics Engineering student at the University of Technology Sydney
