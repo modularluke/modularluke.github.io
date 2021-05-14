@@ -18,12 +18,8 @@ navbar-links:
   My Resume: "resume"
   Projects:
     - All projects: "projects"
-    - Tic-tac-toe robot: "https://www.markdowntutorial.com/"
-    - Wall building robots: "https://beautifuljekyll.com"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-
+    - Tic-tac-toe robot: "projects/tic-tac-toe-robot"
+    - Wall building robots: "projects/wall-building-robots"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -110,14 +106,14 @@ feed_show_tags: true
 # footer-link-col: "#404040"
 
 navbar-col: "#002b36"
-navbar-text-col: "#aebfbf"
+navbar-text-col: "#b3bcbc"
 navbar-border-col: "#DDDDDD"
 page-col: "#073642"
-text-col: "#aebfbf"
+text-col: "#b3bcbc"
 link-col: "#268bd2"
 hover-col: "#5ab8fa"
 footer-col: "#002b36"
-footer-text-col: "#aebfbf"
+footer-text-col: "#b3bcbc"
 footer-link-col: "#268bd2"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
