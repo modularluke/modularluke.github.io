@@ -16,7 +16,8 @@ author: Luke Eyles
 navbar-links:
   Home: "https://modularluke.github.io/"
   My Resume: "resume"
-  Projects: "projects"
+  Projects:
+    - All projects: "projects"
     - Tic-tac-toe robot: "https://www.markdowntutorial.com/"
     - Wall building robots: "https://beautifuljekyll.com"
   Resources:
