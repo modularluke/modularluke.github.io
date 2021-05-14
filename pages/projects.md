@@ -5,16 +5,16 @@ title: Projects
 subtitle: Mechanical and Mechatronics Engineering Projects
 ---
 
-## [Tic-Tac-Toe Robot](projects/tic-tac-toe-robot/)
+## [Tic-Tac-Toe Robot](/tic-tac-toe-robot/)
 Description here\
 Pic here
 
-## [Simulated wall building robots](projects/wall-building-robots/)
+## [Simulated wall building robots](/wall-building-robots/)
 Description here\
 Pic here
 
-## [Driving turtlebot to marker](projects/driving-turtlebot-to-marker/)
-## [Simulated aircraft interceptor](projects/aircraft-interceptor/)
-## [Arduino security system](projects/arduino-security-system/)
-## [Hand pump](projects/hand-pump/)
-## [Blender renders](projects/blender/)
+## [Driving turtlebot to marker](/driving-turtlebot-to-marker/)
+## [Simulated aircraft interceptor](/aircraft-interceptor/)
+## [Arduino security system](/arduino-security-system/)
+## [Hand pump](/hand-pump/)
+## [Blender renders](/blender/)
