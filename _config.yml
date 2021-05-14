@@ -16,20 +16,12 @@ author: Luke Eyles
 navbar-links:
   Home: "https://modularluke.github.io/"
   My Resume: "resume"
-  Projects:
-    - All projects: "projects"
-    - Tic-tac-toe robot: "projects/tic-tac-toe-robot/"
-    - Wall building robots: "projects/wall-building-robots/"
-    - Driving turtlebot to marker: "projects/driving-turtlebot-to-marker/"
-    - Simulated aircraft interceptor: "projects/aircraft-interceptor/"
-    - Arduino security system: "projects/arduino-security-system/"
-    - Hand pump: "projects/hand-pump/"
-    - Blender renders: "projects/blender/"
+  Projects: "projects"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/origami-pinwheel.jpg"
+avatar: "/assets/img/origami-pinwheel.JPG"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
