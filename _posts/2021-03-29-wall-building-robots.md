@@ -10,5 +10,5 @@ tags: [robotics,matlab,simulated]
 ---
 
 <figure class="video_container">
-  <iframe width="960" height="315" src="https://www.youtube.com/embed/7qzXWBPZQF4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="640" height="332" src="https://www.youtube.com/embed/7qzXWBPZQF4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
