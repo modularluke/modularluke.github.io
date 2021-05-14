@@ -6,15 +6,15 @@ subtitle: 4th year Mechanical and Mechatronics Engineering student at the Univer
 ## Experience
 **Jenkins Engineering Defence Systems** (Aug 2019 – Feb 2020)\
 _Engineering Intern in Research and Development Department_
-    - Created Signal Generator GUI application in Matlab that interfaced with software defined radios to transmit pre-set or user defined signals.
-    - Developed Signal Analyser GUI in Matlab, allowing a quick overview of signal characteristics at a glance, or in depth analysis.
-    - Created system to record sensor data from an IMU to a single board computer using C++. 
+- Created Signal Generator GUI application in Matlab that interfaced with software defined radios to transmit pre-set or user defined signals.
+- Developed Signal Analyser GUI in Matlab, allowing a quick overview of signal characteristics at a glance, or in depth analysis.
+- Created system to record sensor data from an IMU to a single board computer using C++. 
 
 **University of Technology Sydney** (Mar 2018 – Jun 2018)\
 _Assistant Lab Tutor for 48510 Introduction to Electrical Engineering_
-    - Answered students’ questions about the signal generators and oscilloscopes used.
-    - Explained electrical concepts and components.
-    - Debugged students’ circuits and walked through how to fix the error.
+- Answered students’ questions about the signal generators and oscilloscopes used.
+- Explained electrical concepts and components.
+- Debugged students’ circuits and walked through how to fix the error.
 
 **Fusion Op Shop Hornsby** (Jan 2016 – Jan 2017)\
 _Weekly Volunteer_ 
