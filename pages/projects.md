@@ -4,4 +4,7 @@ layout: page
 title: Projects
 subtitle: Mechanical and Mechatronics Engineering Projects
 ---
-This is a projects page.
+
+## [Tic-Tac-Toe Robot](/projects/tic-tac-toe-robot/)
+Description here\
+Pic here
