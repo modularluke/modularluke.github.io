@@ -22,39 +22,39 @@ _Weekly Volunteer_
 ## Education
 **University of Technology Sydney** (2017 – 2022)\
 _Bachelor of Mechanical and Mechatronic Engineering, Diploma in Professional Engineering Practice_
-    - GPA: 6.43/7.00, High Distinction average.
-    - Robotics: Programmed two simulated pick and place robots to work together to build a wall in Matlab.
-    - Programming for Mechatronic Systems: Programmed a simulated aircraft in C++ to intercept enemy aircraft by predicting their trajectory.
-    - Mechatronics 2: Built an Arduino security system using a distance sensor mounted on a motor, capable of mapping a room and detecting intruders.
-    - Mechanical Design 1: Designed a robot to attempt the 2019 Warman Design and Build Challenge as part of a team.
-    - Manufacturing Engineering: Designed and manufactured a hand pump as part of a team.
+- GPA: 6.43/7.00, High Distinction average.
+- Robotics: Programmed two simulated pick and place robots to work together to build a wall in Matlab.
+- Programming for Mechatronic Systems: Programmed a simulated aircraft in C++ to intercept enemy aircraft by predicting their trajectory.
+- Mechatronics 2: Built an Arduino security system using a distance sensor mounted on a motor, capable of mapping a room and detecting intruders.
+- Mechanical Design 1: Designed a robot to attempt the 2019 Warman Design and Build Challenge as part of a team.
+- Manufacturing Engineering: Designed and manufactured a hand pump as part of a team.
 
 **Bradfield Senior College** (2014 – 2016)\
 _Higher School Certificate_
 
 ## Skills
 ### Technical Skills
-    - C++: Object oriented programming, using threads to process and send multiple streams of data, compiling using CMake, version control using Git.
-    - Matlab: Image processing, signal processing, robotics using Peter Corke’s Robotics Toolbox and ROS Toolbox, GUI programming using App Designer.
-    - Robot Operating System (ROS): Controlling real and simulated robots, processing incoming messages from sensors using both Matlab and C++.
-    - Microcontrollers: Interfacing with sensors, controlling LCD screen and motors, using timers.
-    - Git: Version control and collaboration.
-    - CAD:
-        - Solidworks: Designing parts, performing FEA, creating assemblies and technical drawings.
-        - Blender: Creating meshes, using modifiers, applying procedural and image based textures.
-    - Engineering workshops: Using power tools, following safety procedures.
-    - Soldering
-    - Python
-    - Microsoft Excel
-    - Microsoft Office
+- C++: Object oriented programming, using threads to process and send multiple streams of data, compiling using CMake, version control using Git.
+- Matlab: Image processing, signal processing, robotics using Peter Corke’s Robotics Toolbox and ROS Toolbox, GUI programming using App Designer.
+- Robot Operating System (ROS): Controlling real and simulated robots, processing incoming messages from sensors using both Matlab and C++.
+- Microcontrollers: Interfacing with sensors, controlling LCD screen and motors, using timers.
+- Git: Version control and collaboration.
+- CAD:
+    - Solidworks: Designing parts, performing FEA, creating assemblies and technical drawings.
+    - Blender: Creating meshes, using modifiers, applying procedural and image based textures.
+- Engineering workshops: Using power tools, following safety procedures.
+- Soldering
+- Python
+- Microsoft Excel
+- Microsoft Office
 
 ### Core Skills
-    - Teamwork and team leadership:
-        - Dividing work and delegating between team members, setting deadlines for review and final submission, contributing to team meetings, ensuring all work is cohesive and completed to a high standard.
-        - Evidenced by high total marks and high ratings by peers in university group projects.
-    - Visual communication skills:
-        - Drawing up diagrams to communicate concepts to others clearly.
-    - Written and verbal communication skills:
-        - Writing clear and concise reports, tailored to the audience.
-        - Listening carefully to specifications and asking questions when clarification or help is needed.
-        - Participating in team meetings by contributing new ideas and adding to others’ ideas.
+- Teamwork and team leadership:
+    - Dividing work and delegating between team members, setting deadlines for review and final submission, contributing to team meetings, ensuring all work is cohesive and completed to a high standard.
+    - Evidenced by high total marks and high ratings by peers in university group projects.
+- Visual communication skills:
+    - Drawing up diagrams to communicate concepts to others clearly.
+- Written and verbal communication skills:
+    - Writing clear and concise reports, tailored to the audience.
+    - Listening carefully to specifications and asking questions when clarification or help is needed.
+    - Participating in team meetings by contributing new ideas and adding to others’ ideas.
