@@ -8,6 +8,7 @@ subtitle: Simulated UR3 and UR5 robots work together to build a wall
 #share-img: /assets/img/path.jpg
 tags: [robotics,matlab,simulated]
 ---
+
 <figure class="video_container">
-  <iframe src="https://youtu.be/7qzXWBPZQF4" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7qzXWBPZQF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
