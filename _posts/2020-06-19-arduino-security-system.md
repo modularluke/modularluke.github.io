@@ -6,7 +6,7 @@ subtitle: An arduino and a distance sensor are used to create a security system 
 #cover-img: "/pages/arduino-security-system/20200619_134437.jpg"
 thumbnail-img: "/pages/arduino-security-system/20200619_134437.jpg"
 share-img: "/pages/arduino-security-system/20200619_134437.jpg"
-tags: [robotics,matlab,simulated]
+tags: [arduino,c,c++,robotics]
 ---
 
 <img src="/pages/arduino-security-system/20200619_134437.jpg" align="center">
