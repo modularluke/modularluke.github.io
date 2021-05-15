@@ -6,4 +6,4 @@ subtitle: Design and build of a vehicle powered by a turbine
 tags: [mechanical,solidworks]
 ---
 
-<iframe src="/pages/wind-powered-vehicle/Assembly drawings WPV Group 04.pdf" scrolling="no" width="850px" height="80%" frameBorder="0"></iframe>
+<iframe src="/pages/wind-powered-vehicle/Assembly drawings WPV Group 04.pdf" scrolling="no" width="850px" height="600px" frameBorder="0"></iframe>
