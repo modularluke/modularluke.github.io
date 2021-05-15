@@ -3,9 +3,9 @@ permalink: /projects/arduino-security-system/
 layout: post
 title: Arduino Security System
 subtitle: An arduino and a distance sensor are used to create a security system to map a room and detect intruders
-#cover-img: /assets/img/path.jpg
-#thumbnail-img: /assets/img/thumb.png
-#share-img: /assets/img/path.jpg
+cover-img: "/pages/arduino-security-system/20200619_134437.jpg"
+thumbnail-img: "/pages/arduino-security-system/20200619_134437.jpg"
+share-img: "/pages/arduino-security-system/20200619_134437.jpg"
 tags: [robotics,matlab,simulated]
 ---
 
