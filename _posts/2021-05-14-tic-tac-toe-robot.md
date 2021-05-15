@@ -3,9 +3,8 @@ permalink: /projects/tic-tac-toe-robot/
 layout: post
 title: Tic Tac Toe Robot
 subtitle: Tic Tac Toe playing robot with the Dobot Magician
-#cover-img: /assets/img/path.jpg
-#thumbnail-img: /assets/img/thumb.png
-#share-img: /assets/img/path.jpg
+thumbnail-img: /pages/tic-tac-toe-robot/thumbnail.png
+share-img: /pages/tic-tac-toe-robot/thumbnail.png
 tags: [robotics,matlab,ROS]
 ---
 
