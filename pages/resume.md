@@ -5,9 +5,6 @@ title: Resume
 subtitle: 4th year Mechanical and Mechatronics Engineering student at the University of Technology Sydney
 ---
 ## Experience
-
-<hr>
-
 **Jenkins Engineering Defence Systems** (Aug 2019 – Feb 2020)\
 _Engineering Intern in Research and Development Department_
 - Created Signal Generator GUI application in Matlab that interfaced with software defined radios to transmit pre-set or user defined signals.
@@ -24,9 +21,6 @@ _Assistant Lab Tutor for 48510 Introduction to Electrical Engineering_
 _Weekly Volunteer_ 
 
 ## Education
-
-<hr>
-
 **University of Technology Sydney** (2017 – 2022)\
 _Bachelor of Mechanical and Mechatronic Engineering, Diploma in Professional Engineering Practice_
 - GPA: 6.43/7.00, High Distinction average.
@@ -40,9 +34,6 @@ _Bachelor of Mechanical and Mechatronic Engineering, Diploma in Professional Eng
 _Higher School Certificate_
 
 ## Skills
-
-<hr>
-
 ### Technical Skills
 - **C++**: Object oriented programming, using threads to process and send multiple streams of data, compiling using CMake, version control using Git.
 - **Matlab**: Image processing, signal processing, robotics using Peter Corke’s Robotics Toolbox and ROS Toolbox, GUI programming using App Designer.
