@@ -10,4 +10,4 @@ tags: [solidworks]
 ---
 
 <img src="/pages/vanuatu-cyclone-shelter/hq colour shelter-1.png" align="centre">
-<img src="hq colour shelter zoom.png" align="centre">
+<img src="/pages/vanuatu-cyclone-shelter/hq colour shelter zoom.png" align="centre">
