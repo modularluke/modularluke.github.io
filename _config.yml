@@ -103,14 +103,14 @@ feed_show_tags: true
 # footer-link-col: "#404040"
 
 navbar-col: "#002b36"
-navbar-text-col: "#b3bcbc"
+navbar-text-col: "#d6e0e0"
 navbar-border-col: "#DDDDDD"
 page-col: "#073642"
-text-col: "#b3bcbc"
+text-col: "#d6e0e0"
 link-col: "#268bd2"
 hover-col: "#5ab8fa"
 footer-col: "#002b36"
-footer-text-col: "#b3bcbc"
+footer-text-col: "#d6e0e0"
 footer-link-col: "#268bd2"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
