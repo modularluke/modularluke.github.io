@@ -5,7 +5,7 @@ title: Warman Challenge 2019 Attempt
 subtitle: Group attempt at the 2019 Warman Design and Build Competition
 thumbnail-img: "/pages/warman-challenge-2019/20190620_160038.jpg"
 share-img: "/pages/warman-challenge-2019/20190620_160038.jpg"
-tags: [robotics,arduino,mechanical]
+tags: [robotics,arduino,mechanical,solidworks]
 ---
 
 The goal of the 2019 Warman Design and Build Competition was to design a vehicle to transport 20 balls from one side of a table to another.
