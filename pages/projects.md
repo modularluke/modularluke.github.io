@@ -17,6 +17,6 @@ subtitle: Mechanical and Mechatronics Engineering Projects
 ## Mechanical Design and CAD
 - [Hand pump](/projects/hand-pump/)
 - [Hydraulic gear pump](/projects/hydraulic-gear-pump/)
-- [Wind powered vehicle](/projects/wind-powered/vehicle/)
+- [Wind powered vehicle](/projects/wind-powered-vehicle/)
 - [Vanuatu cyclone shelter](/projects/vanuatu-cyclone-shelter/)
 - [Blender renders](/projects/blender/)
