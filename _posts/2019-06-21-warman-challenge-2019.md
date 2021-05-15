@@ -19,4 +19,4 @@ Vehicle about to pick up balls.
 <img src="/pages/warman-challenge-2019/Vehicle.png" align="center">
 Steps of vehicle operation.
 
-<iframe src="/pages/warman-challenge-2019/VehicleDrawings.PDF" scrolling="no" width="850px" height="1200px" frameBorder="0"></iframe>
+<iframe src="/pages/warman-challenge-2019/VehicleDrawings.PDF" scrolling="no" width="850px" height="600px" frameBorder="0"></iframe>

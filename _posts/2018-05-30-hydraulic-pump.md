@@ -8,4 +8,4 @@ subtitle: Solidworks drawings and manufacturing process of the POWAUTO PUKS50R h
 tags: [mechanical]
 ---
 
-<iframe src="/pages/hydraulic-gear-pump/12883423 Manufacturing Major Project.pdf" scrolling="no" width="850px" height="1200px" frameBorder="0"></iframe>
+<iframe src="/pages/hydraulic-gear-pump/12883423 Manufacturing Major Project.pdf" scrolling="no" width="850px" height="600px" frameBorder="0"></iframe>
