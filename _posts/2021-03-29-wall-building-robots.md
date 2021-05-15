@@ -3,9 +3,8 @@ permalink: /projects/wall-building-robots/
 layout: post
 title: Wall Building Robots
 subtitle: Simulated UR3 and UR5 robots work together to build a wall
-#cover-img: /assets/img/path.jpg
-#thumbnail-img: /assets/img/thumb.png
-#share-img: /assets/img/path.jpg
+thumbnail-img: /projects/wall-building-robots/thumbnail.png
+share-img: /projects/wall-building-robots/thumbnail.png
 tags: [robotics,matlab,simulated]
 ---
 
